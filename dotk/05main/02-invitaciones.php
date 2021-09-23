@@ -33,6 +33,8 @@
                 <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv21" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-913059981-E3-2020</a>
                 <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv22" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-913059981-E4-2020</a>
                 <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv23" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-ESTATAL-04-2020</a>
+                <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv24" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-ESTATAL-01-2021</a>
+                <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv25" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-ESTATAL-02-2021</a>
             </div>
         </div>
 
@@ -61,6 +63,8 @@
                 <?php include('./dotk/05main/02-Invitaciones/IA-913059981-E3-2020.html'); ?>
                 <?php include('./dotk/05main/02-Invitaciones/IA-913059981-E4-2020.html'); ?>
                 <?php include('./dotk/05main/02-Invitaciones/IA-ESTATAL-04-2020.html'); ?>
+                <?php include('./dotk/05main/02-Invitaciones/IA-ESTATAL-01-2021.html'); ?>
+                <?php include('./dotk/05main/02-Invitaciones/IA-ESTATAL-02-2021.html'); ?>
             </div>
         </div>
     </div>

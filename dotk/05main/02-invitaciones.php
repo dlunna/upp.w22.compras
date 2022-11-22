@@ -46,6 +46,7 @@
                 <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv34" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-ESTATAL-08-2022</a>
                 <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv35" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-ESTATAL-09-2022</a>
                 <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv36" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-ESTATAL-10-2022</a>
+                <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-inv37" role="tab" aria-controls="v-pills-profile" aria-selected="false">IA-ESTATAL-11-2022</a>
             </div>
         </div>
 
@@ -87,6 +88,7 @@
                 <?php include('./dotk/05main/02-Invitaciones/IA-ESTATAL-08-2022.html'); ?>
                 <?php include('./dotk/05main/02-Invitaciones/IA-ESTATAL-09-2022.html'); ?>
                 <?php include('./dotk/05main/02-Invitaciones/IA-ESTATAL-10-2022.html'); ?>
+                <?php include('./dotk/05main/02-Invitaciones/IA-ESTATAL-11-2022.html'); ?>
 
             </div>
         </div>

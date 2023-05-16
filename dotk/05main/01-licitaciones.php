@@ -31,6 +31,7 @@
           <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici19" role="tab" aria-controls="v-pills-profile" aria-selected="false">No. LPN-ESTATAL-01-2023</a>
           <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici20" role="tab" aria-controls="v-pills-profile" aria-selected="false">No. LPN-ESTATAL-02-2023</a>
           <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici21" role="tab" aria-controls="v-pills-profile" aria-selected="false">No. LPN-ESTATAL-03-2023</a>
+          <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici22" role="tab" aria-controls="v-pills-profile" aria-selected="false">No. LPN-ESTATAL-04-2023</a>
         </div>
       </div>
 
@@ -58,6 +59,7 @@
           <?php include('./dotk/05main/01-Licitaciones/LPN-ESTATAL-01-2023.html'); ?>
           <?php include('./dotk/05main/01-Licitaciones/LPN-ESTATAL-02-2023.html'); ?>
           <?php include('./dotk/05main/01-Licitaciones/LPN-ESTATAL-03-2023.html'); ?>
+          <?php include('./dotk/05main/01-Licitaciones/LPN-ESTATAL-04-2023.html'); ?>
         </div>
       </div>
 

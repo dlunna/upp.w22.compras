@@ -10,7 +10,8 @@
       <!--Items licitaciones-->
       <div class="col-3">
           <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-            <a class="nav-link active" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici35" role="tab" aria-controls="v-pills-profile" aria-selected="true">No. LPN-ESTATAL-01-2025</a>
+            <a class="nav-link active" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici36" role="tab" aria-controls="v-pills-profile" aria-selected="true"> No. LPN-ESTATAL-02-2025</a>
+            <a class="nav-link"        id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici35" role="tab" aria-controls="v-pills-profile" aria-selected="false">No. LPN-ESTATAL-01-2025</a>
             
             <a class="nav-link"        id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici34" role="tab" aria-controls="v-pills-profile" aria-selected="false">No. LPN-ESTATAL-07-2024</a>
             <a class="nav-link"        id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-lici33" role="tab" aria-controls="v-pills-profile" aria-selected="false">No. LPN-ESTATAL-06-2024</a>
@@ -61,6 +62,7 @@
       <!--Contenido licitaciones-->
       <div class="col-9">
         <div class="tab-content" id="v-pills-tabContent">
+          <?php include('./dotk/05main/01-Licitaciones/LPN-ESTATAL-02-2025.html'); ?>
           <?php include('./dotk/05main/01-Licitaciones/LPN-ESTATAL-01-2025.html'); ?>
 
           <?php include('./dotk/05main/01-Licitaciones/LPN-ESTATAL-07-2024.html'); ?>

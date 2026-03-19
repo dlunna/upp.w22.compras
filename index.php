@@ -29,6 +29,8 @@
 
   <main>
 
+  <a href="https://www.upp.edu.mx/tp/compras/"><h2>Apartado descontinuado, haga clic para visitar la nueva versión del sitio</h2></a>
+
     <?php include ('./dotk/05main/contenido.html'); ?>
 
     <div class="container marketing">
